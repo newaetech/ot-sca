@@ -4,7 +4,13 @@
 
 See [REPORT.md](REPORT.md) for details of the evaluation.
 
-See [otbn_notebook.ipynb](otbn_notebook.ipynb) to recreate and extend the evaluation.
+See the [/jupyter](../../jupyter) folder to recreate and extend the evaluation. Those notebooks should work using ChipWhisperer, which you can start in that directory with:
+
+```console
+jupyter notebook
+```
+
+See the [ChipWhisperer Documentation](https://chipwhisperer.readthedocs.io/en/latest/starting.html#starting) if you need more help with setup.
 
 ## Software SEtup
 
